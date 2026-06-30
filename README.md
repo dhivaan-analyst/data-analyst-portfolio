@@ -25,4 +25,4 @@ Information Technology graduate with hands-on experience in Python, Pandas, SQL,
 
 ## 📬 Contact
 - Email: dhivaanganesh0122004@gmail.com
-- LinkedIn: [Your LinkedIn URL]
+- LinkedIn: [https://www.linkedin.com/in/dhivaan/]
